@@ -14,6 +14,7 @@
 Route::get('/', function () {
     return view('welcome');
 });
+Route::get('landing', 'FrontController@index' );
 
 /* ================== Homepage + Admin Routes ================== */
 
