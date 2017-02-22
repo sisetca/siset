@@ -12,4 +12,9 @@ class FrontController extends Controller
     {
       return view('landing');
     }
+
+    public function siset()
+    {
+    	return view('siset');
+    }
 }

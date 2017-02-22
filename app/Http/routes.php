@@ -15,6 +15,7 @@ Route::get('/', function () {
     return view('welcome');
 });
 Route::get('landing', 'FrontController@index' );
+Route::get('siset', 'FrontController@siset');
 
 /* ================== Homepage + Admin Routes ================== */
 
