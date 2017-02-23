@@ -1,16 +1,16 @@
 
 	<!-- jQuery 2.1.4 -->
-	<script src="{{ asset('/js/jQuery-2.1.4.min.js') }}" type="text/javascript"></script>
+<script src="{{ asset('/la-assets/plugins/jQuery/jQuery-2.1.4.min.js') }}"></script>
 
-	<script src="{{ asset('/js/bootstrap.min.js') }}" type="text/javascript"></script>
+	<script src="{{ asset('/la-assets/js/bootstrap.min.js') }}" type="text/javascript"></script>
 	
-	<script src="{{ asset('/js/jquery-ui-1.10.4.custom.min.js') }}" type="text/javascript"></script>
 	
-	<script src="{{ asset('/js/gsdk-checkbox.js') }}"></script>
-	<script src="{{ asset('/js/gsdk-radio.js') }}"></script>
-	<script src="{{ asset('/js/gsdk-bootstrapswitch.js') }}"></script>
-	<script src="{{ asset('/js/get-shit-done.js.js') }}"></script>
-	<script src="{{ asset('/js/custom.js') }}"></script>
+	
+	<script src="{{ asset('/la-assets/js/gsdk-checkbox.js') }}"></script>
+	<script src="{{ asset('/la-assets/js/gsdk-radio.js') }}"></script>
+	<script src="{{ asset('/la-assets/js/gsdk-bootstrapswitch.js') }}"></script>
+	<script src="{{ asset('/la-assets/js/get-shit-done.js.js') }}"></script>
+	<script src="{{ asset('/la-assets/js/custom.js') }}"></script>
 
 
 	{{--

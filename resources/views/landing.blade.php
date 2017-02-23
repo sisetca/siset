@@ -1,21 +1,21 @@
 <!doctype html>
 <html lang="en">
-@include('landing.link')
+@include('landing-guia.link')
 <body>
-@include('landing.nav')     
-@include('landing.main')   
-@include('landing.navbar-full')
-@include('landing.main2')
-@include('landing.notifications')
-@include('landing.typography')
-@include('landing.carousel')
-@include('landing.contact')
-@include('landing.footer')
+@include('landing-guia.nav')     
+@include('landing-guia.main')   
+@include('landing-guia.navbar-full')
+@include('landing-guia.main2')
+@include('landing-guia.notifications')
+@include('landing-guia.typography')
+@include('landing-guia.carousel')
+@include('landing-guia.contact')
+@include('landing-guia.footer')
 
 
 
 </body>
 
-@include('landing.script')
+@include('landing-guia.script')
  
 </html>

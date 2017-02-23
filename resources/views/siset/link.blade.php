@@ -12,9 +12,19 @@
    <link href="{{ asset('/la-assets/css/bootstrap.css') }}" rel="stylesheet">
    <link href="{{ asset('/css/gsdk.css') }}" rel="stylesheet">  
    <link href="{{ asset('/css/demo.css') }}" rel="stylesheet"> 
-   
-    
-    <!--     Font Awesome     -->
+     <link href="{{ asset('/la-assets/css/font-awesome.css') }}" rel="stylesheet">
+
+ <link href="{{ asset('stroke/pe-icon-7-stroke/css/pe-icon-7-stroke.css') }}" rel="stylesheet">  
+ <!--
+     <link rel="stylesheet" href="stroke/pe-icon-7-stroke/css/pe-icon-7-stroke.css">
+    -->
+    <!--     Font Awesome     
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
     <link href="bootstrap3/css/font-awesome.css" rel="stylesheet">
+
+-->
+
+ 
+    
     <link href='http://fonts.googleapis.com/css?family=Grand+Hotel' rel='stylesheet' type='text/css'>
 </head>

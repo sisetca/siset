@@ -17,7 +17,7 @@
                             <img src="{{ asset('/la-assets/img/landing/new_logo.png') }}">
                         </div>
                         <div class="brand">
-                            Creative Tim
+                            logo de siset
                         </div>
                     </div>
                 </a>
