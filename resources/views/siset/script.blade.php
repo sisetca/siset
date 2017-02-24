@@ -11,7 +11,7 @@
 	<script src="{{ asset('/la-assets/js/gsdk-bootstrapswitch.js') }}"></script>
 	<script src="{{ asset('/la-assets/js/get-shit-done.js.js') }}"></script>
 	<script src="{{ asset('/la-assets/js/custom.js') }}"></script>
-
+    <script src="{{ asset('/la-assets/js/smoothscroll.js') }}"></script>
 
 	{{--
 	<script src="jquery/jquery-1.10.2.js" type="text/javascript"></script>

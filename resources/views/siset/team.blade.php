@@ -1,3 +1,4 @@
+<section id="team" name="team"></section>
 <div class="main">
   <div class="container tim-container">
     <div id="extras">
@@ -9,7 +10,8 @@
     <div class="row">
       <div class="col-md-3">
         <div class="member add-animation animation-1 animate">
-          <img class="img-circle" src="assets/img/elena.jpg">
+        <img  class="img-circle" src="{{ asset('la-assets/img/landing/diana2.png') }}" alt="">
+          
           <div class="description">
             <h3 class="big-text">Elena Conacel </h3>
             <br>
@@ -23,7 +25,7 @@
        </div>
        <div class="col-md-3">
          <div class="member add-animation animation-2 animate">
-          <img class="img-circle" src="assets/img/diana.png">
+          <img  class="img-circle" src="{{ asset('la-assets/img/landing/diana2.png') }}" alt="">
           <div class="description">
             <h3 class="big-text">Diana Caliman </h3>
             <br>
@@ -39,7 +41,7 @@
       </div>
       <div class="col-md-3">
         <div class="member add-animation animation-2 animate">
-          <img class="img-circle" src="assets/img/diana.png">
+          <img  class="img-circle" src="{{ asset('la-assets/img/landing/diana2.png') }}" alt="">
           <div class="description">
             <h3 class="big-text">Diana Caliman </h3>
             <br>
@@ -55,7 +57,7 @@
       </div>
       <div class="col-md-3">
         <div class="member add-animation animation-2 animate">
-          <img class="img-circle" src="assets/img/diana.png">
+          <img  class="img-circle" src="{{ asset('la-assets/img/landing/diana2.png') }}" alt="">
           <div class="description">
             <h3 class="big-text">Diana Caliman </h3>
             <br>

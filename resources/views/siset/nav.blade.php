@@ -14,11 +14,13 @@
                 <a href="http://creative-tim.com">
                      <div class="logo-container">
                         <div class="logo">
-                            <img src="{{ asset('/la-assets/img/landing/new_logo.png') }}">
+                            <img src="{{ asset('/la-assets/img/landing/white_siset.png') }}">
                         </div>
+                        <!--
                         <div class="brand">
                             logo de siset
                         </div>
+                        -->
                     </div>
                 </a>
             </div>
@@ -26,16 +28,19 @@
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
               <ul class="nav navbar-nav navbar-right">
-                    <li><a href="components.html">Components</a></li>
-                    
-                    <li><a href="http://www.creative-tim.com/product/get-shit-done-kit" class="btn btn-round btn-default">Download</a></li>
+                    <li class="active"><a href="#home" class="smoothScroll">Home</a></li>
+                    <li><a href="#service" class="smoothScroll">Servicios</a></li>
+                    <!-- 
+                    <li><a href="http://www.creative-tim.com/product/get-shit-done-kit" class="btn btn-round btn-default">Download</a></li>-->
+                    <li><a href="#team" class="smoothScroll">Team</a></li>
+                    <li><a href="#contact" class="smoothScroll">Contacto</a></li>
                </ul>
               
             </div><!-- /.navbar-collapse -->
           </div><!-- /.container-fluid -->
         </nav>
     </div><!--  end container-->
-    
+    <section id="home" name="home"></section>
     <div class='blurred-container'>
         <div class="motto">
             <div>SISET</div>
