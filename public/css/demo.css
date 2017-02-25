@@ -74,6 +74,7 @@
     background-color: #FFFFFF;
     padding: 10px 0 20px;
     width: 100%;
+    text-align: center;
 }
 .card h3{
     margin-bottom: 20px;
@@ -400,3 +401,15 @@
     display: inline-block;
     margin-bottom: 25px;
 }
+
+/* css io */
+
+
+.number {
+    font-size: 40px;
+    color: #c5a47e;
+    font-weight: 400;
+    display: block;
+    text-align: center;
+}
+

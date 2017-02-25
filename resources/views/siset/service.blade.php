@@ -89,19 +89,24 @@
   </div><!--row2-->
   <div class="text-area">
     <div class="title add-animation animate">
-      <h2>Redes Sociales</h2>
+      <h2 class="text-center">
+      <span class="time-note">Redes Sociales</span>
+      <br>
+      <!--
       <div class="separator-container">
         <div class="separator line-separator">∎</div>
       </div>
-      <p>"Started from the bottom now we're here" - Drake </p>
+      -->
+      <small class="subtitle">"Started from the bottom now we're here" - Drake </small>
+      </h2>
     </div>
   </div>
   <div class="clearfix"></div>
   <div class="row">
     <div class="col-md-4 col-sm-4">
       <div class="card card-plain add-animation animation-1 animate">
-        <h3>Users</h3>
-        <h5>Businesses and Professionals</h5>
+        <h3 class=text-center>Users</h3>
+        <h5 class="text-center">Businesses and Professionals</h5>
         <div class="number">
           116.000+
         </div>
