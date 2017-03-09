@@ -1,6 +1,6 @@
 <div id="navbar-full">
     <div class="container">
-        <nav class="navbar navbar-ct-blue navbar-transparent navbar-fixed-top" role="navigation">
+        <nav class="navbar navbar-ct-blue  navbar-fixed-top navbar-transparent" role="navigation">
           
           <div class="container">
             <!-- Brand and toggle get grouped for better mobile display -->

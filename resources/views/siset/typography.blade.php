@@ -23,6 +23,7 @@
 
                             <div class="row">
                                 <div class="col-md-6">
+                                {{--  
                                     <script src="https://www.google.com/recaptcha/api.js" async="" defer=""></script>
 <div class="g-recaptcha" data-sitekey="6LfJvgsTAAAAALbDuISbCDo1l6qyX_YrPT59xaVk"><div style="width: 304px; height: 78px;"><div><iframe name="undefined" scrolling="no" title="recaptcha widget" src="https://www.google.com/recaptcha/api2/anchor?k=6LfJvgsTAAAAALbDuISbCDo1l6qyX_YrPT59xaVk&amp;co=aHR0cHM6Ly93d3cuY3JlYXRpdmUtdGltLmNvbTo0NDM.&amp;hl=en&amp;v=r20170213115309&amp;size=normal&amp;cb=9st7eexfiauy" frameborder="0" height="78" width="304"></iframe></div><textarea id="g-recaptcha-response" name="g-recaptcha-response" class="g-recaptcha-response" style="width: 250px; height: 40px; border: 1px solid #c1c1c1; margin: 10px 25px; padding: 0px; resize: none;  display: none; "></textarea></div></div>
           <noscript>
@@ -47,6 +48,7 @@
               </div>
             </div>
           </noscript>
+          --}}
 
                                 </div>
                                 <div class="col-md-6">
