@@ -39,6 +39,7 @@
 #navbar-full .navbar{
     border-radius: 0 !important;
     margin-bottom: 0;
+    background-color: rgba(52, 172, 220, 0.98);
 }
 .navigation-example{
     margin-top: 0px;
@@ -307,6 +308,77 @@
     line-height: 40px;
 }
 
+/*++ css adicional redes sociales */
+
+.btn 
+{
+    border-radius: 0px;
+}
+.btn-transparent 
+{
+    color: #ffffff;
+    background: transparent;
+    border: 1px solid #ffffff;
+}
+.btn-transparent:hover,
+.btn-transparent:focus,
+.btn-transparent:active,
+.btn-transparent.active 
+{
+  color: #545454;
+  background-color: #ffffff;
+  border-color: #ffffff;
+}
+
+.btn-facebook:hover,
+.btn-facebook:focus,
+.btn-facebook:active,
+.btn-facebook.active 
+{
+    color: #ffffff;
+    background-color: #3B5998;
+    border-color: #3B5998;
+}
+
+.btn-twitter:hover,
+.btn-twitter:focus,
+.btn-twitter:active,
+.btn-twitter.active
+{
+    color: #ffffff;
+    background-color: #00aced;
+    border-color: #00aced;
+}
+
+
+
+.btn-youtube:hover,
+.btn-youtube:focus,
+.btn-youtube:active,
+.btn-youtube.active
+{
+    color: #ffffff;
+    background-color: #bb0000;
+    border-color: #bb0000;
+}
+
+
+
+.btn-instagram:hover,
+.btn-instagram:focus,
+.btn-instagram:active,
+.btn-instagram.active
+{
+    color: #ffffff;
+    background-color: #517fa4;
+    border-color: #517fa4;
+}
+
+
+
+
+
+
 /*   EXTRA SHIT  */
 /* @cristina: fisier singular, folosit pentru efectul de blur la parallax in header */
 
@@ -429,7 +501,10 @@
     width: 100%;
     opacity: 0;
     transition: .5s ease;
+    background-color: rgba(52, 172, 220, 0.98);
+    /*
     background-color: #7484ff;
+    */
 }
 
 .theam-thumb.img-wrp:hover .team-overlay{
@@ -445,4 +520,13 @@
     z-index: 10;
     text-transform: uppercase;
 
+}
+
+/*statistics */
+.statistics {
+    background-color: #f2f2f2;
+}
+
+.container.tim-container.st {
+    background-color: #f2f2f2;
 }

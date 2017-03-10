@@ -7,8 +7,10 @@
 @include('siset.service')
 @include('siset.carousel')
 @include('siset.team')
+@include('siset.statistics')
 {{-- renombrar tipografia por contacto --}}
 @include('siset.typography')
+
 @include('landing-guia.footer')
 </body>
 

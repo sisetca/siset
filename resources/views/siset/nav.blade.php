@@ -25,8 +25,10 @@
                 </a>
             </div>
         
-            <!-- Collect the nav links, forms, and other content for toggling -->
-            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <!-- Collect the nav links, forms, and other content for toggling 
+             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            -->
+            <div class="navbar-collapse collapse">
               <ul class="nav navbar-nav navbar-right">
                     <li class="active"><a href="#home" class="smoothScroll">Home</a></li>
                     <li><a href="#service" class="smoothScroll">Servicios</a></li>

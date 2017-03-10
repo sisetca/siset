@@ -1,6 +1,7 @@
 
 	<!-- jQuery 2.1.4 -->
 <script src="{{ asset('/la-assets/plugins/jQuery/jQuery-2.1.4.min.js') }}"></script>
+
 <script src="{{ asset('/la-assets/js/jquery-ui-1.10.4.custom.min.js') }}"></script>
 
 	<script src="{{ asset('/la-assets/js/bootstrap.min.js') }}" type="text/javascript"></script>
@@ -12,8 +13,9 @@
 	<script src="{{ asset('/la-assets/js/gsdk-bootstrapswitch.js') }}"></script>
 	<script src="{{ asset('/la-assets/js/get-shit-done.js.js') }}"></script>
 	<script src="{{ asset('/la-assets/js/custom.js') }}"></script>
+	
     <script src="{{ asset('/la-assets/js/smoothscroll.js') }}"></script>
-
+   
 	{{--
 	<script src="jquery/jquery-1.10.2.js" type="text/javascript"></script>
 	<script src="assets/js/jquery-ui-1.10.4.custom.min.js" type="text/javascript"></script>
