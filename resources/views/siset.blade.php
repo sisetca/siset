@@ -5,13 +5,15 @@
 <body data-spy="scroll" data-offset="0" data-target="#navigation">
 @include('siset.nav')
 @include('siset.service')
+{{--  
 @include('siset.carousel')
+--}}
 @include('siset.team')
 @include('siset.statistics')
 {{-- renombrar tipografia por contacto --}}
-@include('siset.typography')
+@include('siset.contact')
 
-@include('landing-guia.footer')
+@include('siset.footer')
 </body>
 
 

@@ -491,17 +491,19 @@
     text-align: center;
     padding: 10px;
     border: 1px solid #e8e8e8;
+    margin-bottom: 20px;
 }
 
 .team-overlay{
     position: absolute;
     top: 0px;
     left: 0px;
-    height: 100%;
-    width: 100%;
+    height: 82%;
+    width: 97%;
     opacity: 0;
     transition: .5s ease;
     background-color: rgba(52, 172, 220, 0.98);
+    z-index: 1030;
     /*
     background-color: #7484ff;
     */
@@ -522,6 +524,20 @@
 
 }
 
+.team.networs {
+    font-size: 30px;
+    display: inline-block;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
 /*statistics */
 .statistics {
     background-color: #f2f2f2;
@@ -530,3 +546,68 @@
 .container.tim-container.st {
     background-color: #f2f2f2;
 }
+
+.development {
+    text-align: center;
+    font-size: 4em;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* formulario */
+
+.l-subsection-h.g-html.i-cf {
+    position: relative;
+    text-align: center;
+}
+
+.space-top-20{
+    margin-bottom: 15px;
+}
+
+/*+++ contact foorter */
+
+.content-contact {
+    text-align: center;
+    font-size: 30px;
+}
+
+.content-contact > .h3.title-contact{
+    color:#ffffff;
+}
+
+.content-contact > p{
+    color:#ffffff; 
+}
+
+.text >  p {
+    color:#ffffff; 
+}
+
+

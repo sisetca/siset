@@ -1,0 +1,21 @@
+{
+  "name": "siset",
+  "description": "",
+  "main": "",
+  "authors": [
+    "jtorrealba3200 <jtorrealba3@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/sisetca/siset",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "animate.css": "^3.5.2"
+  }
+}

@@ -6,8 +6,10 @@
      <div class="tim-title">
       <h2 class="text-center">Team</h2>
     </div>
-    @include('siset.teamrow1')
-    @include('siset.teamrow2')
+    @include('siset.team.teamrow1')
+ 
+    @include('siset.team.teamrow2')
+
    
   </div><!--end extras -->    
 </div>

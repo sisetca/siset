@@ -11,7 +11,8 @@
 	
    <link href="{{ asset('/la-assets/css/bootstrap.css') }}" rel="stylesheet">
    <link href="{{ asset('/css/gsdk.css') }}" rel="stylesheet">  
-   <link href="{{ asset('/css/demo.css') }}" rel="stylesheet"> 
+   <link href="{{ asset('/css/demo.css') }}" rel="stylesheet">
+   <link href="{{ asset('/css/animate.css') }}" rel="stylesheet">  
      <link href="{{ asset('/la-assets/css/font-awesome.css') }}" rel="stylesheet">
 
  <link href="{{ asset('stroke/pe-icon-7-stroke/css/pe-icon-7-stroke.css') }}" rel="stylesheet">  

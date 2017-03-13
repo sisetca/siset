@@ -85,8 +85,22 @@
       </p>
       <a href="http://www.creative-tim.com/product/awesome-landing-page" id="Demo3" class="btn btn-fill btn-success" data-button="success">Get Free Demo</a>
     </div>
-
   </div><!--row2-->
+
+<div class="row">
+  <div class="col-md-6">
+        <h4 class="header-text">Desarrollo Web</h4>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. In, commodi molestiae! Ea dolore eos magnam ut! Provident incidunt nisi magnam vero officia, perferendis dolorum, mollitia! Quos distinctio perspiciatis, dolorum doloremque.</p>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur veniam beatae, minima cupiditate voluptas at fuga, vel magni ducimus maxime laboriosam eligendi iusto, aspernatur necessitatibus. Quidem officiis modi id maiores.</p>
+      </div>
+      <div class="col-md-5 col-md-offset-1 hidden-xs">
+        <img src="{{ asset('/la-assets/img/landing/mac2.png') }}">
+      </div> 
+
+  
+</div><!--row3-->
+
+
   <div class="text-area">
     <div class="title add-animation animate">
       <h2 class="text-center">

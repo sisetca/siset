@@ -15,7 +15,9 @@
 	<script src="{{ asset('/la-assets/js/custom.js') }}"></script>
 	
     <script src="{{ asset('/la-assets/js/smoothscroll.js') }}"></script>
+     <script src="{{ asset('/la-assets/js/waypoints.min.js') }}"></script>
    
+   @yield('js')
 	{{--
 	<script src="jquery/jquery-1.10.2.js" type="text/javascript"></script>
 	<script src="assets/js/jquery-ui-1.10.4.custom.min.js" type="text/javascript"></script>
