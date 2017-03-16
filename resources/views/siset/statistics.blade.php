@@ -1,5 +1,4 @@
 
-
 <script type="text/javascript">
 	jQuery(function($) {
 		$('#test1').waypoint(function() {
@@ -13,8 +12,6 @@
 	});
 
 </script>
-
-
 
 <section id="statistics" name="statistics" ></section>
 <div class="main">

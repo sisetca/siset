@@ -1,4 +1,5 @@
 <div id="navbar-full">
+{{--  
     <div class="container">
         <nav class="navbar navbar-ct-blue  navbar-fixed-top navbar-transparent" role="navigation">
           
@@ -42,8 +43,11 @@
           </div><!-- /.container-fluid -->
         </nav>
     </div><!--  end container-->
+--}}
+
     <section id="home" name="home"></section>
     <div class='blurred-container'>
+    {{--  
         <div class="motto">
             <div>SISET</div>
             <div class="border no-right-border">Si</div><div class="border">it</div>
@@ -51,5 +55,8 @@
         </div>
         <div class="img-src" style="background-image: url('/la-assets/img/landing/cover_4.jpg')"></div>
         <div class='img-src blur' style="background-image: url('/la-assets/img/landing/cover_4_blur.jpg')"></div>
+        --}}
+
+        <video src="{{ asset('la-assets/img/landing/ciudad.mp4') }}" autoplay loop muted poster=""></video>
     </div>  
 </div>
